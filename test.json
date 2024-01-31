@@ -1,0 +1,456 @@
+{
+	"player": {
+		"pos": [ 0.000000, 0.000000, 0.000000 ],
+		"rotate": [ 0.000000, 0.000000, 0.000000 ],
+		"jump": true,
+		"jumpvelocity": 4.500000
+	},
+	"camera": {
+		"tpsnearoffsety": 0.000000,
+		"tpsfaroffsety": 0.000000,
+		"smoothing": false
+	},
+	"rendering": {
+		"lightdir": [ -1.000000, -1.000000, 1.000000 ],
+		"lightcolor": [ 1.000000, 1.000000, 1.000000 ],
+		"pbr": true
+	},
+"hierarchy": [
+{
+"type": "Root",
+"local pos": [ 0.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, 0.000000, 0.000000],
+"enabled": true,
+"script components": [
+],
+"children": [
+{
+"type": "Collision",
+"local pos": [ 0.000000, -0.250000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "Field",
+	"type": "collision",
+	"show": false,
+	"pos": [ 0.000000, -0.250000, 0.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 20.000000, 0.500000, 34.591187]
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 0.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+{
+"script": "ExpendHeliscript.hs",
+"component": "Mathf"
+}
+],
+"item":{
+	"name": "ExpendHeliscript",
+	"filename": "asset:primitive/cube/cube.glb",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": false,
+	"pos": [ 0.000000, 0.000000, 0.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 0.000000, 0.000000, 0.000000],
+	"clickablenodes": [
+	],
+	"components": [
+		"Mathf"
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+	"forcecollidertargetavataronly": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 0.000000, 6.193130, 2.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+{
+"script": "ItemRotation.hs",
+"component": "ItemRotater"
+}
+],
+"item":{
+	"name": "Scythe",
+	"filename": "asset:model/Scythe/Scythe.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 0.000000, 6.193130, 2.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 0.500000, 0.500000, 0.500000],
+	"clickablenodes": [
+	],
+	"components": [
+		"ItemRotater"
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+	"forcecollidertargetavataronly": false
+}
+,"children": [
+{
+"type": "AreaCollider",
+"local pos": [ 0.173199, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+{
+"script": "ItemRotation.hs",
+"component": "ItemRotater"
+}
+],
+"item":{
+	"name": "AreaCollider",
+	"type": "areacollider",
+	"subtype": "selfcollider",
+	"show": false,
+	"pos": [ 0.173199, 6.193130, 2.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 4.341497, 13.783136, 0.765895],
+	"actions": [
+		{
+			"type": "warp",
+			"pos": [ 0.000000, 0.000000, 0.000000 ],
+			"rotate": [ 0.000000, 0.000000, 0.000000 ]
+		}
+	],
+	"leaveactions": [
+	],
+	"components": [
+		"ItemRotater"
+	]
+}
+,"children": [
+]
+}
+]
+}
+,{
+"type": "Object",
+"local pos": [ 0.000000, 6.193130, 4.000000 ],
+"euler": [ 0.000000, 0.000000, 20.000000],
+"enabled": true,
+"script components": [
+{
+"script": "ItemRotation.hs",
+"component": "ItemRotater"
+}
+],
+"item":{
+	"name": "Scythe1",
+	"filename": "asset:model/Scythe/Scythe.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 0.000000, 6.193130, 4.000000 ],
+	"rotate": [ 0.000000, -0.000000, 20.000000],
+	"scale": [ 0.500000, 0.500000, 0.500000],
+	"clickablenodes": [
+	],
+	"components": [
+		"ItemRotater"
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+	"forcecollidertargetavataronly": false
+}
+,"children": [
+{
+"type": "AreaCollider",
+"local pos": [ 0.173199, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+{
+"script": "ItemRotation.hs",
+"component": "ItemRotater"
+}
+],
+"item":{
+	"name": "AreaCollider1",
+	"type": "areacollider",
+	"subtype": "selfcollider",
+	"show": false,
+	"pos": [ 0.162754, 6.252367, 4.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 4.341497, 13.783136, 0.765895],
+	"actions": [
+		{
+			"type": "warp",
+			"pos": [ 0.000000, 0.000000, 0.000000 ],
+			"rotate": [ 0.000000, 0.000000, 0.000000 ]
+		}
+	],
+	"leaveactions": [
+	],
+	"components": [
+		"ItemRotater"
+	]
+}
+,"children": [
+]
+}
+]
+}
+,{
+"type": "Object",
+"local pos": [ 0.000000, 6.193130, 6.000000 ],
+"euler": [ 0.000000, 0.000000, 40.000000],
+"enabled": true,
+"script components": [
+{
+"script": "ItemRotation.hs",
+"component": "ItemRotater"
+}
+],
+"item":{
+	"name": "Scythe2",
+	"filename": "asset:model/Scythe/Scythe.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 0.000000, 6.193130, 6.000000 ],
+	"rotate": [ 0.000000, -0.000000, 39.999996],
+	"scale": [ 0.500000, 0.500000, 0.500000],
+	"clickablenodes": [
+	],
+	"components": [
+		"ItemRotater"
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+	"forcecollidertargetavataronly": false
+}
+,"children": [
+{
+"type": "AreaCollider",
+"local pos": [ 0.173199, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+{
+"script": "ItemRotation.hs",
+"component": "ItemRotater"
+}
+],
+"item":{
+	"name": "AreaCollider2",
+	"type": "areacollider",
+	"subtype": "selfcollider",
+	"show": false,
+	"pos": [ 0.132678, 6.304460, 6.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 4.341497, 13.783136, 0.765895],
+	"actions": [
+		{
+			"type": "warp",
+			"pos": [ 0.000000, 0.000000, 0.000000 ],
+			"rotate": [ 0.000000, 0.000000, 0.000000 ]
+		}
+	],
+	"leaveactions": [
+	],
+	"components": [
+		"ItemRotater"
+	]
+}
+,"children": [
+]
+}
+]
+}
+,{
+"type": "Object",
+"local pos": [ 0.000000, 6.193130, 8.000000 ],
+"euler": [ 0.000000, 0.000000, 60.000000],
+"enabled": true,
+"script components": [
+{
+"script": "ItemRotation.hs",
+"component": "ItemRotater"
+}
+],
+"item":{
+	"name": "Scythe3",
+	"filename": "asset:model/Scythe/Scythe.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 0.000000, 6.193130, 8.000000 ],
+	"rotate": [ 0.000000, -0.000000, 60.000004],
+	"scale": [ 0.500000, 0.500000, 0.500000],
+	"clickablenodes": [
+	],
+	"components": [
+		"ItemRotater"
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+	"forcecollidertargetavataronly": false
+}
+,"children": [
+{
+"type": "AreaCollider",
+"local pos": [ 0.173199, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+{
+"script": "ItemRotation.hs",
+"component": "ItemRotater"
+}
+],
+"item":{
+	"name": "AreaCollider3",
+	"type": "areacollider",
+	"subtype": "selfcollider",
+	"show": false,
+	"pos": [ 0.086599, 6.343125, 8.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 4.341497, 13.783136, 0.765895],
+	"actions": [
+		{
+			"type": "warp",
+			"pos": [ 0.000000, 0.000000, 0.000000 ],
+			"rotate": [ 0.000000, 0.000000, 0.000000 ]
+		}
+	],
+	"leaveactions": [
+	],
+	"components": [
+		"ItemRotater"
+	]
+}
+,"children": [
+]
+}
+]
+}
+,{
+"type": "Object",
+"local pos": [ 0.000000, 6.193130, 10.000000 ],
+"euler": [ 0.000000, 0.000000, 80.000000],
+"enabled": true,
+"script components": [
+{
+"script": "ItemRotation.hs",
+"component": "ItemRotater"
+}
+],
+"item":{
+	"name": "Scythe4",
+	"filename": "asset:model/Scythe/Scythe.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 0.000000, 6.193130, 10.000000 ],
+	"rotate": [ 0.000000, -0.000000, 80.000000],
+	"scale": [ 0.500000, 0.500000, 0.500000],
+	"clickablenodes": [
+	],
+	"components": [
+		"ItemRotater"
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+	"forcecollidertargetavataronly": false
+}
+,"children": [
+{
+"type": "AreaCollider",
+"local pos": [ 0.173199, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+{
+"script": "ItemRotation.hs",
+"component": "ItemRotater"
+}
+],
+"item":{
+	"name": "AreaCollider4",
+	"type": "areacollider",
+	"subtype": "selfcollider",
+	"show": false,
+	"pos": [ 0.030076, 6.363698, 10.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 4.341497, 13.783136, 0.765895],
+	"actions": [
+		{
+			"type": "warp",
+			"pos": [ 0.000000, 0.000000, 0.000000 ],
+			"rotate": [ 0.000000, 0.000000, 0.000000 ]
+		}
+	],
+	"leaveactions": [
+		{
+			"type": "warp",
+			"pos": [ 0.000000, 0.000000, 0.000000 ],
+			"rotate": [ 0.000000, 0.000000, 0.000000 ]
+		}
+	],
+	"components": [
+		"ItemRotater"
+	]
+}
+,"children": [
+]
+}
+]
+}
+]
+}
+]
+}

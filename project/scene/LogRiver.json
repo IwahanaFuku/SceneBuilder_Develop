@@ -1,0 +1,3462 @@
+{
+	"player": {
+		"pos": [ 18.750000, 1.570000, 2.510000 ],
+		"rotate": [ 0.000000, -90.000000, 0.000000 ],
+		"jump": true,
+		"jumpvelocity": 4.500000
+	},
+	"camera": {
+		"tpsnearoffsety": 0.000000,
+		"tpsfaroffsety": 0.000000,
+		"smoothing": false
+	},
+	"rendering": {
+		"lightdir": [ -1.000000, -1.000000, 1.000000 ],
+		"lightcolor": [ 1.000000, 1.000000, 1.000000 ],
+		"pbr": true
+	},
+"hierarchy": [
+{
+"type": "Root",
+"local pos": [ 0.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, 0.000000, 0.000000],
+"enabled": true,
+"script components": [
+],
+"children": [
+{
+"type": "Object",
+"local pos": [ -6.441628, 0.000000, 0.000000 ],
+"euler": [ 90.000000, 0.000000, 0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "Log0",
+	"filename": "asset:model/SPR_WoodPillor/SPR_WoodPillor.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -6.441628, 0.000000, 0.000000 ],
+	"rotate": [ 89.980209, -0.000000, -0.000000],
+	"scale": [ 0.000000, 0.000000, 0.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -7.000000, 0.000000, 0.000000 ],
+"euler": [ 90.000000, 0.000000, 0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "Log1",
+	"filename": "asset:model/SPR_WoodPillor/SPR_WoodPillor.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -7.000000, 0.000000, 0.000000 ],
+	"rotate": [ 89.980209, -0.000000, -0.000000],
+	"scale": [ 0.000000, 0.000000, 0.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -7.000000, 0.000000, 0.000000 ],
+"euler": [ 90.000000, 0.000000, 0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "Log2",
+	"filename": "asset:model/SPR_WoodPillor/SPR_WoodPillor.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -7.000000, 0.000000, 0.000000 ],
+	"rotate": [ 89.980209, -0.000000, -0.000000],
+	"scale": [ 0.000000, 0.000000, 0.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -7.000000, 0.000000, 0.000000 ],
+"euler": [ 90.000000, 0.000000, 0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "Log3",
+	"filename": "asset:model/SPR_WoodPillor/SPR_WoodPillor.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -7.000000, 0.000000, 0.000000 ],
+	"rotate": [ 89.980209, -0.000000, -0.000000],
+	"scale": [ 0.000000, 0.000000, 0.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -7.000000, 0.000000, 0.000000 ],
+"euler": [ 90.000000, 0.000000, 0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "Log4",
+	"filename": "asset:model/SPR_WoodPillor/SPR_WoodPillor.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -7.000000, 0.000000, 0.000000 ],
+	"rotate": [ 89.980209, -0.000000, -0.000000],
+	"scale": [ 0.000000, 0.000000, 0.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -7.000000, 0.000000, 0.000000 ],
+"euler": [ 90.000000, 0.000000, 0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "Log5",
+	"filename": "asset:model/SPR_WoodPillor/SPR_WoodPillor.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -7.000000, 0.000000, 0.000000 ],
+	"rotate": [ 89.980209, -0.000000, -0.000000],
+	"scale": [ 0.000000, 0.000000, 0.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -7.000000, 0.000000, 0.000000 ],
+"euler": [ 90.000000, 0.000000, 0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "Log6",
+	"filename": "asset:model/SPR_WoodPillor/SPR_WoodPillor.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -7.000000, 0.000000, 0.000000 ],
+	"rotate": [ 89.980209, -0.000000, -0.000000],
+	"scale": [ 0.000000, 0.000000, 0.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -7.000000, 0.000000, 0.000000 ],
+"euler": [ 90.000000, 0.000000, 0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "Log7",
+	"filename": "asset:model/SPR_WoodPillor/SPR_WoodPillor.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -7.000000, 0.000000, 0.000000 ],
+	"rotate": [ 89.980209, -0.000000, -0.000000],
+	"scale": [ 0.000000, 0.000000, 0.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -7.000000, 0.000000, 0.000000 ],
+"euler": [ 90.000000, 0.000000, 0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "Log8",
+	"filename": "asset:model/SPR_WoodPillor/SPR_WoodPillor.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -7.000000, 0.000000, 0.000000 ],
+	"rotate": [ 89.980209, -0.000000, -0.000000],
+	"scale": [ 0.000000, 0.000000, 0.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -7.000000, 0.000000, 0.000000 ],
+"euler": [ 90.000000, 0.000000, 0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "Log9",
+	"filename": "asset:model/SPR_WoodPillor/SPR_WoodPillor.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -7.000000, 0.000000, 0.000000 ],
+	"rotate": [ 89.980209, -0.000000, -0.000000],
+	"scale": [ 0.000000, 0.000000, 0.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -7.000000, 0.000000, 0.000000 ],
+"euler": [ 90.000000, 0.000000, 0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "Log10",
+	"filename": "asset:model/SPR_WoodPillor/SPR_WoodPillor.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -7.000000, 0.000000, 0.000000 ],
+	"rotate": [ 89.980209, -0.000000, -0.000000],
+	"scale": [ 0.000000, 0.000000, 0.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 0.000000, 0.000000, -0.534683 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 0.000000, 0.000000, -0.534683 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+{
+"type": "Object",
+"local pos": [ 0.000000, 0.000000, 5.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 0.000000, 0.000000, 4.465317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 0.000000, 0.000000, 2.500000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 0.000000, 0.000000, 1.965317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 2.500000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 2.500000, 0.000000, -0.534683 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 2.500000, 0.000000, 2.500000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 2.500000, 0.000000, 1.965317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 2.500000, 0.000000, 5.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 2.500000, 0.000000, 4.465317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 5.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 5.000000, 0.000000, -0.534683 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 7.500000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 7.500000, 0.000000, -0.534683 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 10.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 10.000000, 0.000000, -0.534683 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 5.000000, 0.000000, 2.500000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 5.000000, 0.000000, 1.965317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 7.500000, 0.000000, 2.500000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 7.500000, 0.000000, 1.965317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 10.000000, 0.000000, 2.500000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 10.000000, 0.000000, 1.965317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 5.000000, 0.000000, 5.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 5.000000, 0.000000, 4.465317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 10.000000, 0.000000, 5.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 10.000000, 0.000000, 4.465317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 7.500000, 0.000000, 5.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 7.500000, 0.000000, 4.465317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -2.500000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -2.500000, 0.000000, -0.534683 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -2.500000, 0.000000, 2.500000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -2.500000, 0.000000, 1.965317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -2.500000, 0.000000, 5.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -2.500000, 0.000000, 4.465317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -5.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -5.000000, 0.000000, -0.534683 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -5.000000, 0.000000, 2.500000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -5.000000, 0.000000, 1.965317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -5.000000, 0.000000, 5.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -5.000000, 0.000000, 4.465317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 17.500000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 17.500000, 0.000000, -0.534683 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+{
+"type": "Object",
+"local pos": [ 0.000000, 0.000000, 5.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 17.500000, 0.000000, 4.465317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 0.000000, 0.000000, 2.500000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 17.500000, 0.000000, 1.965317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 2.500000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 20.000000, 0.000000, -0.534683 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 2.500000, 0.000000, 2.500000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 20.000000, 0.000000, 1.965317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 2.500000, 0.000000, 5.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 20.000000, 0.000000, 4.465317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 5.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 22.500000, 0.000000, -0.534683 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 7.500000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 25.000000, 0.000000, -0.534683 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 10.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 27.500000, 0.000000, -0.534683 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 5.000000, 0.000000, 2.500000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 22.500000, 0.000000, 1.965317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 7.500000, 0.000000, 2.500000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 25.000000, 0.000000, 1.965317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 10.000000, 0.000000, 2.500000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 27.500000, 0.000000, 1.965317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 5.000000, 0.000000, 5.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 22.500000, 0.000000, 4.465317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 10.000000, 0.000000, 5.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 27.500000, 0.000000, 4.465317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 7.500000, 0.000000, 5.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 25.000000, 0.000000, 4.465317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -2.500000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 15.000000, 0.000000, -0.534683 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -2.500000, 0.000000, 2.500000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 15.000000, 0.000000, 1.965317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -2.500000, 0.000000, 5.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 15.000000, 0.000000, 4.465317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -5.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 12.500000, 0.000000, -0.534683 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -5.000000, 0.000000, 2.500000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 12.500000, 0.000000, 1.965317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -5.000000, 0.000000, 5.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_WatarB",
+	"filename": "asset:model/SF_WatarB/SF_WatarB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 12.500000, 0.000000, 4.465317 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.500000, 1.000000, 2.500000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+]
+}
+]
+}
+,{
+"type": "Object",
+"local pos": [ 19.503223, 1.039852, 0.000091 ],
+"euler": [ 0.000000, 89.983047, 89.999184],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_WoodWall",
+	"filename": "asset:model/SW_WoodWall/SW_WoodWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 19.503223, 1.039852, 0.000091 ],
+	"rotate": [ 0.000000, 89.983047, 89.999191],
+	"scale": [ 3.310367, 1.563797, 0.270585],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+{
+"type": "Object",
+"local pos": [ -3.309908, 0.000007, 0.000979 ],
+"euler": [ -0.000012, 0.000005, 0.000005],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_WoodWall",
+	"filename": "asset:model/SW_WoodWall/SW_WoodWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 19.503216, 1.039852, 3.309999 ],
+	"rotate": [ 0.000003, 89.983040, 89.999199],
+	"scale": [ 3.310367, 1.563797, 0.270585],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+]
+}
+,{
+"type": "Object",
+"local pos": [ -5.999998, 1.043166, 0.000002 ],
+"euler": [ 0.000000, 89.983047, 89.999184],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_WoodWall",
+	"filename": "asset:model/SW_WoodWall/SW_WoodWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -5.999998, 1.043166, 0.000002 ],
+	"rotate": [ 0.000000, 89.983047, 89.999191],
+	"scale": [ 3.310367, 1.563797, 0.270585],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+{
+"type": "Object",
+"local pos": [ -3.309999, -0.000000, -0.002375 ],
+"euler": [ -0.000012, 0.000005, 0.000005],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_WoodWall",
+	"filename": "asset:model/SW_WoodWall/SW_WoodWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -5.999998, 1.039812, 3.310000 ],
+	"rotate": [ 0.000003, 89.983040, 89.999199],
+	"scale": [ 3.310367, 1.563797, 0.270585],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+]
+}
+,{
+"type": "Object",
+"local pos": [ 8.000000, -0.750000, -1.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 8.000000, -0.750000, -1.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+{
+"type": "Object",
+"local pos": [ -2.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 6.000000, -0.750000, -1.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -4.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 4.000000, -0.750000, -1.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -6.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 2.000000, -0.750000, -1.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -8.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 0.000000, -0.750000, -1.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -10.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -2.000000, -0.750000, -1.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -12.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -4.000000, -0.750000, -1.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -14.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -6.000000, -0.750000, -1.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -14.000000, 0.000000, 6.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -6.000000, -0.750000, 5.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -12.000000, 0.000000, 6.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -4.000000, -0.750000, 5.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -10.000000, 0.000000, 6.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -2.000000, -0.750000, 5.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -8.000000, 0.000000, 6.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 0.000000, -0.750000, 5.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -6.000000, 0.000000, 6.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 2.000000, -0.750000, 5.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -4.000000, 0.000000, 6.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 4.000000, -0.750000, 5.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -2.000000, 0.000000, 6.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 6.000000, -0.750000, 5.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 0.000000, 0.000000, 6.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 8.000000, -0.750000, 5.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+]
+}
+,{
+"type": "Object",
+"local pos": [ -3.500000, 0.995564, -5.058874 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_GrassGround",
+	"filename": "asset:model/SF_GrassGround/SF_GrassGround.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -3.500000, 0.995564, -5.058874 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 8.000000, 1.000000, 8.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+{
+"type": "Object",
+"local pos": [ 8.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_GrassGround",
+	"filename": "asset:model/SF_GrassGround/SF_GrassGround.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 4.500000, 0.995564, -5.058874 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 8.000000, 1.000000, 8.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 8.000000, 0.000000, 14.190000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_GrassGround",
+	"filename": "asset:model/SF_GrassGround/SF_GrassGround.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 4.500000, 0.995564, 9.131125 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 8.000000, 1.000000, 8.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 0.000000, 0.000000, 14.192942 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+{
+"script": "FlowingLog.hs",
+"component": "FlowingLog"
+}
+],
+"item":{
+	"name": "SF_GrassGround",
+	"filename": "asset:model/SF_GrassGround/SF_GrassGround.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -3.500000, 0.995564, 9.134068 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 8.000000, 1.000000, 8.000000],
+	"clickablenodes": [
+	],
+	"components": [
+		"FlowingLog"
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 16.000000, 0.000000, 14.190000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_GrassGround",
+	"filename": "asset:model/SF_GrassGround/SF_GrassGround.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 12.500000, 0.995564, 9.131125 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 8.000000, 1.000000, 8.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 24.000000, 0.000000, 14.190000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_GrassGround",
+	"filename": "asset:model/SF_GrassGround/SF_GrassGround.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 20.500000, 0.995564, 9.131125 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 8.000000, 1.000000, 8.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 16.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_GrassGround",
+	"filename": "asset:model/SF_GrassGround/SF_GrassGround.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 12.500000, 0.995564, -5.058874 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 8.000000, 1.000000, 8.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 24.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SF_GrassGround",
+	"filename": "asset:model/SF_GrassGround/SF_GrassGround.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 20.500000, 0.995564, -5.058874 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 8.000000, 1.000000, 8.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+]
+}
+,{
+"type": "Object",
+"local pos": [ 5.781485, 1.195964, -4.926407 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SN_PlantB",
+	"filename": "asset:model/SN_PlantB/SN_PlantB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 5.781485, 1.195964, -4.926407 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 1.000000, 1.000000, 1.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+{
+"type": "Object",
+"local pos": [ -6.143154, 0.000000, 1.058582 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SN_PlantB",
+	"filename": "asset:model/SN_PlantB/SN_PlantB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -0.361669, 1.195964, -3.867825 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 1.000000, 1.000000, 1.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -6.143154, 0.000000, 13.671695 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SN_PlantB",
+	"filename": "asset:model/SN_PlantB/SN_PlantB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -0.361669, 1.195964, 8.745288 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 1.000000, 1.000000, 1.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+]
+}
+,{
+"type": "AreaCollider",
+"local pos": [ 5.140283, -1.982931, 2.130000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "AreaCollider",
+	"type": "areacollider",
+	"subtype": "selfcollider",
+	"show": false,
+	"pos": [ 5.140283, -1.982931, 2.130000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 48.151379, 1.000000, 9.679893],
+	"actions": [
+		{
+			"type": "warp",
+			"pos": [ 18.750000, 1.570000, 2.510000 ],
+			"rotate": [ 0.000000, -90.000000, 0.000000 ]
+		}
+	],
+	"leaveactions": [
+	],
+	"components": [
+	]
+}
+,"children": [
+]
+}
+,{
+"type": "TextPlane",
+"local pos": [ -9.596605, 2.925086, 1.013732 ],
+"euler": [ 0.000000, -90.000000, 0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "TextPlane",
+	"type": "textplane",
+	"subtype": "",
+	"uuid": "",
+	"show": false,
+	"pos": [ -9.596605, 2.925086, 1.013732 ],
+	"rotate": [ 0.000000, -89.980202, 0.000000],
+	"scale": [ 1.000000, 1.000000, 1.000000],
+	"color": [ 0.000000, 0.000000, 0.000000, 1.000000],
+	"text": "ゴール！",
+	"fontfamily": "",
+	"fontsize": 256,
+	"texturesize": [ 512, 512],
+	"textalignment": "LT",
+	"charaspace": 0,
+	"linespace": 0,
+	"overflowwrap": false,
+	"alphablending": true,
+	"billboard": false,
+	"zbias": 0.000000,
+	"clickablenodes": [
+	],
+	"draggable": false
+}
+,"children": [
+{
+"type": "AreaCollider",
+"local pos": [ 1.112433, -1.534236, -3.284036 ],
+"euler": [ 0.000000, 89.999977, -0.000000],
+"enabled": true,
+"script components": [
+{
+"script": "FlowingSPR_WoodPillor.hs",
+"component": "FlowingSPR_WoodPillor"
+}
+],
+"item":{
+	"name": "AreaCollider2",
+	"type": "areacollider",
+	"subtype": "selfcollider",
+	"show": false,
+	"pos": [ -6.312570, 1.390850, 2.126164 ],
+	"rotate": [ 0.000000, -0.000017, 0.000000],
+	"scale": [ 0.947756, 2.279340, 7.183267],
+	"actions": [
+		{
+			"type": "showitem",
+			"name": "TextPlane"
+		}
+	],
+	"leaveactions": [
+	],
+	"components": [
+		"FlowingSPR_WoodPillor"
+	]
+}
+,"children": [
+]
+}
+]
+}
+,{
+"type": "Object",
+"local pos": [ -8.611660, 1.085343, -19.719090 ],
+"euler": [ 0.000000, -90.000000, 0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SS_BlueSky",
+	"filename": "asset:model/SS_BlueSky/SS_BlueSky.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ -8.611660, 1.085343, -19.719090 ],
+	"rotate": [ 0.000000, -89.999992, 0.000000],
+	"scale": [ 1.000000, 1.000000, 1.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 24.000000, -0.750000, -1.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 24.000000, -0.750000, -1.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+{
+"type": "Object",
+"local pos": [ -2.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 22.000000, -0.750000, -1.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -4.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 20.000000, -0.750000, -1.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -6.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 18.000000, -0.750000, -1.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -8.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 16.000000, -0.750000, -1.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -10.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 14.000000, -0.750000, -1.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -12.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 12.000000, -0.750000, -1.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -14.000000, 0.000000, 0.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 10.000000, -0.750000, -1.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -14.000000, 0.000000, 6.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 10.000000, -0.750000, 5.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -12.000000, 0.000000, 6.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 12.000000, -0.750000, 5.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -10.000000, 0.000000, 6.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 14.000000, -0.750000, 5.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -8.000000, 0.000000, 6.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 16.000000, -0.750000, 5.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -6.000000, 0.000000, 6.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 18.000000, -0.750000, 5.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -4.000000, 0.000000, 6.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 20.000000, -0.750000, 5.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ -2.000000, 0.000000, 6.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 22.000000, -0.750000, 5.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 0.000000, 0.000000, 6.000000 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SW_StoneWall",
+	"filename": "asset:model/SW_StoneWall/SW_StoneWall.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 24.000000, -0.750000, 5.000000 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 2.000000, 1.807544, 2.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+]
+}
+,{
+"type": "Object",
+"local pos": [ 16.136982, 1.195964, -4.328668 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SN_PlantB",
+	"filename": "asset:model/SN_PlantB/SN_PlantB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 16.136982, 1.195964, -4.328668 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 1.000000, 1.000000, 1.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+{
+"type": "Object",
+"local pos": [ -7.918736, 0.000000, 11.008492 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SN_PlantB",
+	"filename": "asset:model/SN_PlantB/SN_PlantB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 8.218246, 1.195964, 6.679824 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 1.000000, 1.000000, 1.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+,{
+"type": "Object",
+"local pos": [ 2.141994, 0.000000, 15.502844 ],
+"euler": [ 0.000000, -0.000000, -0.000000],
+"enabled": true,
+"script components": [
+],
+"item":{
+	"name": "SN_PlantB",
+	"filename": "asset:model/SN_PlantB/SN_PlantB.heo",
+	"type": "object",
+	"subtype": "",
+	"uuid": "",
+	"show": true,
+	"pos": [ 18.278976, 1.195964, 11.174175 ],
+	"rotate": [ 0.000000, -0.000000, -0.000000],
+	"scale": [ 1.000000, 1.000000, 1.000000],
+	"clickablenodes": [
+	],
+	"components": [
+	],
+	"overrides": [
+	],
+	"properties": {
+
+	},
+	"placeontop": false,
+	"draggable": false
+}
+,"children": [
+]
+}
+]
+}
+]
+}
+]
+}
